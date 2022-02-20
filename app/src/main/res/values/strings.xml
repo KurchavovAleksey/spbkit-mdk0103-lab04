@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab04TwoActivites</string>
+    <string name="text">Text</string>
+    <string name="check_box_1">Check box 1</string>
+    <string name="check_box_2">Check box 2</string>
+    <string name="exit">Exit</string>
+    <string name="second_activity">Second activity</string>
+    <string name="sure_exit">Are you sure you want to exit?</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="open_dialog">Open dialog</string>
+    <string name="edit_text">Edit text</string>
+    <string name="ok">OK</string>
+    <string name="author">Курчавов Алексей 204 группа СПБКИТ</string>
+</resources>
